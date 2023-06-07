@@ -107,7 +107,7 @@ We have ~1450 labeled images (PSU)
 
 --
 
-The income data come from 3 surveys:
+The (per capita) income data come from 3 surveys:
 - Household budget survey (EPF)
 - Socioeconomic characteization survey (CASEN)
 - Supplementary Income Survey (ESI)
@@ -143,7 +143,7 @@ background-image: url("imagenes/fondo2.PNG")
 background-size: contain;
 background-position: 100% 0%
 
-# Features
+# More Features
 
 .center[<img src="imagenes/features.png" width="900">]
 
