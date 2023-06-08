@@ -177,7 +177,7 @@ background-position: 100% 0%
 
 # Results
 
-```{r}
+```{r, fig.height=4, fig.width=7}
 library(feather)
 library(tidyverse)
 library(plotly)
@@ -208,7 +208,7 @@ background-position: 100% 0%
 
 # Results
 
-```{r}
+```{r, fig.height=4, fig.width=7}
 # qqplots
 pred_sorted <- results %>%
   filter(tipo == "predicted") %>%
